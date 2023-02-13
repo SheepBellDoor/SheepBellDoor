@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SheepBellDoor/SheepBellDoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://velog.io/@sheepbelldoor" target="_blank"><img src="https://img.shields.io/badge/sheepbelldoor.log-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"/></a>
+<a href="https://instagram.com/sheep_bell_door_?igshid=YzgyMTM2MGM=" target="_blank"><img src="https://img.shields.io/badge/sheep_bell_door_-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBnNPWGKRTQVMfZJZpSXVNXsGGMQfKpKmXdHBVLfXsgkfzHbLttcGTPXDbBDjccFNBJBsGV" target="_blank"><img src="https://img.shields.io/badge/sheepbelldoor.dev-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/></a>
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=FFFFFF"/></a>
-
-![Jongmun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheepBellDoor&show_icons=true&theme=radical)
+![Jongmun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheepBellDoor&show_icons=true&theme=tokyonight)
